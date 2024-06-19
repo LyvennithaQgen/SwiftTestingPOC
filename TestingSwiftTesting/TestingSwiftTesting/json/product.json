@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "title": "Hand Bag",
+  "price": 25.0,
+  "description": "Your perfect pack for everyday use and walks in the forest",
+  "category": "women's clothing",
+  "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  "rating": {
+    "rate": 4.0,
+    "count": 432
+  }
+}
